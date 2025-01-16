@@ -21,13 +21,15 @@
 
 .contents {
 	width: 35%;
+	height: 100%;
 	padding: 20px;
 	text-align: left;
 	background-color: white;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	align-items: flex-start;
+	align-items: center;
+	text-align: center;
 }
 
 .contents h1 {
